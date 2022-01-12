@@ -4,4 +4,7 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="Datos">#AC9494</color>
+    <color name="Color_principal">#FA5075</color>
+    <color name="blanco">#ffffff</color>
+    <color name="Favorito">#FFBF00</color>
 </resources>
